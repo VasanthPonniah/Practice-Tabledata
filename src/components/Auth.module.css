@@ -1,0 +1,14 @@
+.loginForm {
+  margin: auto auto;
+  padding: 4rem;
+  margin-top: 8rem;
+  border-radius: 30px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+.loginForm label {
+  font-weight: bold;
+}
+.errorText {
+  color: red;
+  text-align: center;
+}

@@ -1,0 +1,22 @@
+.userIcon {
+  font-size: 30px;
+  color: grey;
+  margin-left: 2rem;
+  cursor: pointer;
+  border: solid 2px grey;
+  border-radius: 30px;
+}
+.userIcon:hover {
+  border-color: rgb(165, 165, 228);
+  color: rgb(165, 165, 228);
+}
+.actionControl {
+  display: flex;
+  float: right;
+  margin: 1rem;
+}
+.filterForm input {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem 0;
+}
